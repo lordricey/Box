@@ -4,7 +4,7 @@ This is a game I am currently making in C++ using SDL. I'm doing this to learn m
 ## Current state of the game
 ![Image of a red box.](https://raw.githubusercontent.com/lordricey/Box/main/images/window.PNG)
 
-The box can be moved with the arrow keys. The box cant move outside the window.
+The box can be moved with the arrow keys. The box cant move outside the window. Only runs on Windows (sorry).
 
 ### Things I'd like to add
 - [ ] An objective!
